@@ -1,7 +1,7 @@
 
 <!-- Banner o imagen personalizada (opcional) -->
 <!-- Puedes crear una imagen en Canva y subirla al repo para colocar aquí -->
-![Banner](./banner.png)
+
 <p align="center">
   <img src="./banner.png" alt="Analia Burgos Banner" style="width:100%; max-height:250px; object-fit:cover;">
 </p>
