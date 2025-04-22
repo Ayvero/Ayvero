@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="./banner_3.png" alt="Analia Burgos Banner" width=1200>
+  <img src="./banner_3.png" alt="Analia Burgos Banner" width=1500>
 </p>
 
 
@@ -34,7 +34,7 @@ Apasionada por construir aplicaciones eficientes, escalables y con código limpi
 ---
 
 ## 📂 Proyectos destacados
-
+<!--
 ### 🎬 **Videoteca App**
 App CRUD para administrar una videoteca: películas, empleados, departamentos y distribuidores.  
 🔧 Tecnologías: Java, Javalin, PostgreSQL, HTML/CSS  
@@ -42,18 +42,19 @@ App CRUD para administrar una videoteca: películas, empleados, departamentos y 
 🔗 [Ver repositorio](https://github.com/tuusuario/nombre-repo) | 🌐 [Ver demo](https://tudemo.vercel.app)
 
 ---
+-->
 
 ### 🤝 **Voluntarios ONG - API REST con PostgREST**
 API para consulta de datos de voluntarios utilizando PostgREST sobre base PostgreSQL.  
 🔧 Tecnologías: PostgreSQL, SQL, PostgREST  
-🔗 [Ver repositorio](https://github.com/tuusuario/nombre-repo)
+🔗 [Ver repositorio](https://github.com/Ayvero/nombre-repo)
 
 ---
 
 ### 🛴 **Sistema de alquiler de monopatines**
 Arquitectura web con microservicios en Java/Spring Boot. Incluye GPS, cuentas, reportes y administración de precios.  
 🔧 Tecnologías: Java, Spring Boot, REST, PostgreSQL  
-🔗 [Ver repositorio](https://github.com/tuusuario/nombre-repo)
+🔗 [Ver repositorio](https://github.com/Ayvero/nombre-repo)
 
 ---
 
@@ -70,7 +71,7 @@ Arquitectura web con microservicios en Java/Spring Boot. Incluye GPS, cuentas, r
 
 
 - 💼 LinkedIn: [linkedin.com/in/tuperfil](https://linkedin.com/in/tuperfil)
-- 📧 Email: [tuemail@gmail.com](mailto:tuemail@gmail.com)
+- 📧 Email: [tuemail@gmail.com](mailto:analiaveronicadra@gmail.com)
 
 ---
 
