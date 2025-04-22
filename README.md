@@ -167,7 +167,7 @@ App CRUD para administrar una videoteca: películas, empleados, departamentos y 
 ## 📫 Contacto
 
 
-- 💼 LinkedIn: [linkedin.com/in/tuperfil](https://linkedin.com/in/tuperfil)
+- 💼 LinkedIn: [www.linkedin.com/in/analiaburgos](www.linkedin.com/in/analiaburgos)
 - 📧 Email: [analiaveronicadra@gmail.com](mailto:analiaveronicadra@gmail.com)
 
 ---
