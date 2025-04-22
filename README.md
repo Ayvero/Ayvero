@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="./banner.png" alt="Analia Burgos Banner" width=900>
+  <img src="./banner.png" alt="Analia Burgos Banner" width=1200>
 </p>
 
 
