@@ -2,6 +2,10 @@
 <!-- Banner o imagen personalizada (opcional) -->
 <!-- Puedes crear una imagen en Canva y subirla al repo para colocar aquí -->
 ![Banner](./banner.png)
+<p align="center">
+  <img src="./banner.png" alt="Analia Burgos Banner" style="width:100%; max-height:250px; object-fit:cover;">
+</p>
+
 
 
 <h1 align="center" style="color:#2b1f51;">✨ ¡Hola! Soy Analía Burgos! ✨</h1>
