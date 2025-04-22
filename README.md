@@ -29,7 +29,24 @@ Feel free to explore my projects below! 🚀
 
 ---
 
-## 🚀 Tecnologías que manejo
+## 🛠️ Tech Stack
+
+**Languages:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+**Tools & Frameworks:**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  
+![Javalin](https://img.shields.io/badge/Javalin-00C7B7?style=flat&logo=java&logoColor=white)  
+![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=flat&logo=jetbrains&logoColor=white)
+
+**Version Control:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+<!--## 🚀 Tecnologías que manejo
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> 
@@ -40,7 +57,7 @@ Feel free to explore my projects below! 🚀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> 
 </div>
-
+-->
 ---
 
 ## 💼 Featured Projects
