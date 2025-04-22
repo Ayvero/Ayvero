@@ -12,10 +12,20 @@
 
 <h1 align="center" style="color:#2b1f51;">✨ ¡Hola! Soy Analía Burgos! ✨</h1>
 
-<p align="center">
-Desarrolladora Back-End con enfoque en Java y bases de datos relacionales.  
-Apasionada por construir aplicaciones eficientes, escalables y con código limpio.  
-</p>
+
+## 👋 About Me
+
+Hi there! I'm Analia Burgos, a passionate backend developer from Argentina.
+
+I recently graduated from the **TUDAI program (University Degree in Mobile Application Development)** at the **National University of Central Buenos Aires (UNICEN)**.  
+My academic and project experience gave me a solid foundation in backend development, with a focus on **Java** and **relational databases (SQL)**.
+
+I enjoy designing clean, scalable systems and writing well-structured code that solves real problems.  
+Currently, I'm building my portfolio and looking for opportunities to grow as a backend developer, especially in Java-based environments.
+
+Feel free to explore my projects below! 🚀
+ 
+
 
 ---
 
@@ -34,6 +44,89 @@ Apasionada por construir aplicaciones eficientes, escalables y con código limpi
 ---
 
 ## 📂 Proyectos destacados
+
+## 💼 Featured Projects
+
+---
+
+### 🚲 Microservices - Electric Scooter Rental App
+
+This is a university project built with **Java Spring Boot**, showcasing a **microservices-based architecture** for an electric scooter rental platform. It simulates a real-world application with multiple interconnected services.
+
+**🔧 Technologies:**  
+Java 17 · Spring Boot · Spring Data JPA · PostgreSQL · Eureka Server · Spring Cloud Gateway · Lombok
+
+**🧩 Architecture:**
+- 🚲 Scooter Service
+- 👤 User Service
+- 📍 Location Service
+- 🧾 Rental Service
+- 💳 Payment Service
+- 📊 Statistics Service
+
+These services communicate via REST, managed through **Eureka (Service Discovery)** and an **API Gateway**.
+
+**📌 Key Features:**
+- CRUD operations for scooters and users  
+- Rental logic and basic payment simulation  
+- REST APIs for each service  
+- Designed for containerization (Docker-ready)  
+- Example SQL data for quick testing  
+
+🔗 [View Repository](https://github.com/Ayvero/Microservices_monopatines)
+
+---
+
+### 🎬 SQL Videoclub Queries
+
+A comprehensive **PostgreSQL database project** simulating a video rental store with over 20 real-world SQL queries and insights.
+
+**🔧 Technologies:**  
+PostgreSQL · SQL · DataGrip
+
+**📁 Files included:**
+- `create_tables.sql`
+- `insert_data.sql` (sample, well-structured data)
+- `queries.sql` (commented and professional)
+- `views.sql` (optimized views for business intelligence)
+
+**📌 Highlights:**
+- Advanced queries with joins, aggregates, and conditions  
+- Views for reports like most rented movies, top clients, and revenue per distributor  
+- Clean relational schema (10+ tables, normalized structure)
+
+🔗 [View Repository](https://github.com/Ayvero/sql_videoclub_queries)
+
+---
+---
+
+### 👗 Clothing Inventory REST API
+
+A RESTful API that allows users to manage a collection of clothing items. Built using **PHP** with a structured **MVC architecture**, this project demonstrates clean separation of concerns and backend logic implementation in a non-Java environment.
+
+**🔧 Technologies:**  
+PHP · MVC Architecture · MySQL · REST · Postman
+
+**📁 Features:**
+- CRUD operations for clothing items
+- Clean separation of:
+  - Controllers
+  - Models
+  - Views (basic outputs / REST responses)
+- MySQL database integration
+- Structured file system and modular logic
+
+**📌 Highlights:**
+- Shows ability to build backend systems beyond Java
+- Ideal for small inventory or catalog management systems
+- Can be extended with authentication or front-end integration
+
+🔗 [View Repository](https://github.com/Ayvero/api_rest)
+
+
+
+
+
 <!--
 ### 🎬 **Videoteca App**
 App CRUD para administrar una videoteca: películas, empleados, departamentos y distribuidores.  
@@ -43,35 +136,13 @@ App CRUD para administrar una videoteca: películas, empleados, departamentos y 
 
 ---
 -->
-
-### 🤝 **Voluntarios ONG - API REST con PostgREST**
-API para consulta de datos de voluntarios utilizando PostgREST sobre base PostgreSQL.  
-🔧 Tecnologías: PostgreSQL, SQL, PostgREST  
-🔗 [Ver repositorio](https://github.com/Ayvero/nombre-repo)
-
----
-
-### 🛴 **Sistema de alquiler de monopatines**
-Arquitectura web con microservicios en Java/Spring Boot. Incluye GPS, cuentas, reportes y administración de precios.  
-🔧 Tecnologías: Java, Spring Boot, REST, PostgreSQL  
-🔗 [Ver repositorio](https://github.com/Ayvero/nombre-repo)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=midnight-purple" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=midnight-purple" height="160"/>
-</div>
-
 ---
 
 ## 📫 Contacto
 
 
 - 💼 LinkedIn: [linkedin.com/in/tuperfil](https://linkedin.com/in/tuperfil)
-- 📧 Email: [tuemail@gmail.com](mailto:analiaveronicadra@gmail.com)
+- 📧 Email: [analiaveronicadra@gmail.com](mailto:analiaveronicadra@gmail.com)
 
 ---
 
