@@ -1,9 +1,9 @@
-## Hi there 👋
+
 <!-- Banner o imagen personalizada (opcional) -->
 <!-- Puedes crear una imagen en Canva y subirla al repo para colocar aquí -->
 <!-- ![Banner](ruta/imagen.jpg) -->
 
-<h1 align="center" style="color:#2b1f51;">✨ ¡Hola! Soy [Tu Nombre] ✨</h1>
+<h1 align="center" style="color:#2b1f51;">✨ ¡Hola! Soy Analía Burgos! ✨</h1>
 
 <p align="center">
 Desarrolladora Back-End con enfoque en Java y bases de datos relacionales.  
@@ -61,7 +61,7 @@ Arquitectura web con microservicios en Java/Spring Boot. Incluye GPS, cuentas, r
 
 ## 📫 Contacto
 
-- 🌐 Portfolio Web: [tuweb.com](https://tuweb.com)
+
 - 💼 LinkedIn: [linkedin.com/in/tuperfil](https://linkedin.com/in/tuperfil)
 - 📧 Email: [tuemail@gmail.com](mailto:tuemail@gmail.com)
 
