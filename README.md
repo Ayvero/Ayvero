@@ -1,7 +1,7 @@
 
 <!-- Banner o imagen personalizada (opcional) -->
 <!-- Puedes crear una imagen en Canva y subirla al repo para colocar aquí -->
-![Banner](./banner.jpg)
+![Banner](./banner.png)
 
 
 <h1 align="center" style="color:#2b1f51;">✨ ¡Hola! Soy Analía Burgos! ✨</h1>
