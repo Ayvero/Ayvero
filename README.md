@@ -10,12 +10,12 @@
 
 
 
-<h1 align="center" style="color:#2b1f51;">✨ ¡Hola! Soy Analía Burgos! ✨</h1>
+<h1 align="center" style="color:#2b1f51;">✨ ¡Hi! I'm Analía Burgos! ✨</h1>
 
 
 ## 👋 About Me
 
-Hi there! I'm Analia Burgos, a passionate backend developer from Argentina.
+Hi there! I'm  a passionate backend developer from Argentina.
 
 I recently graduated from the **TUDAI program (University Degree in Mobile Application Development)** at the **National University of Central Buenos Aires (UNICEN)**.  
 My academic and project experience gave me a solid foundation in backend development, with a focus on **Java** and **relational databases (SQL)**.
@@ -42,8 +42,6 @@ Feel free to explore my projects below! 🚀
 </div>
 
 ---
-
-## 📂 Proyectos destacados
 
 ## 💼 Featured Projects
 
@@ -147,5 +145,5 @@ App CRUD para administrar una videoteca: películas, empleados, departamentos y 
 ---
 
 <p align="center" style="color:#2b1f51;">
-Gracias por visitar mi perfil 🙌  
+Thanks for watching my profile! 🙌  
 </p>
